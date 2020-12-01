@@ -1,4 +1,4 @@
-package com.company;
+package com.company.producerConsumer;
 
 public class Product {
     private int id;

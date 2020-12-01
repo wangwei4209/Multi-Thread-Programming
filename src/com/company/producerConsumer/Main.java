@@ -1,4 +1,4 @@
-package com.company;
+package com.company.producerConsumer;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

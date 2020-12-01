@@ -1,4 +1,4 @@
-package com.company;
+package com.company.producerConsumer;
 
 import java.util.Random;
 import java.util.concurrent.LinkedBlockingDeque;
